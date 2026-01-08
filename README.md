@@ -41,6 +41,8 @@ I focus on writing clean, logical code and building practical backend projects.
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
+![Snake animation](https://raw.githubusercontent.com/Matthias3721/Matthias/output/snake.svg)
+
 
 ## 🚀 Current Focus
 - Java backend fundamentals (OOP, services, clean architecture)
